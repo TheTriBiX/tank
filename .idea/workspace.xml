@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbfe5ae4-a3e4-434a-9928-230d1ece9605" name="Default Changelist" comment="изменен экран смерти" />
+    <list default="true" id="cbfe5ae4-a3e4-434a-9928-230d1ece9605" name="Default Changelist" comment="презентация добавлена">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1611045115108</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="презентация добавлена">
+      <created>1611045413600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611045413600</updated>
+    </task>
+    <task id="LOCAL-00004" summary="презентация добавлена">
+      <created>1611045471444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611045471444</updated>
+    </task>
+    <task id="LOCAL-00005" summary="презентация добавлена">
+      <created>1611045482491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611045482491</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="описание добавлено" />
     <MESSAGE value="изменен экран смерти" />
-    <option name="LAST_COMMIT_MESSAGE" value="изменен экран смерти" />
+    <MESSAGE value="презентация добавлена" />
+    <option name="LAST_COMMIT_MESSAGE" value="презентация добавлена" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611041976888">
